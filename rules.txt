@@ -1,2 +1,0 @@
-1. work only if you are mulesoft developer, otherwise dont work here.
-you must have java knowledge.
