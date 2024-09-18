@@ -1,2 +1,2 @@
 # product-api
-To do for scm mulesoft product-api
+To do scm for product-api
